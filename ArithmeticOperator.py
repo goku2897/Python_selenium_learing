@@ -48,7 +48,7 @@ x = ["Rajesh",1]
 y = ["Rajesh",1]
 
 print("Rajesh" in x)
-print("rajesh"not in x)
+print("rajesh" not in x)
 
 #BITWISE OPERATOR
 

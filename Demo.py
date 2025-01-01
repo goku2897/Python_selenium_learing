@@ -1,4 +1,5 @@
 userName = "Rajesh"
+print(userName)
 print(type(userName))
 
 x = 600;
